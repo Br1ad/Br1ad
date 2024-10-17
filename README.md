@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Br1ad
-- 👀 I’m interested in gamedev, software development
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in gamedev and software development
 
 <!---
 Br1ad/Br1ad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
